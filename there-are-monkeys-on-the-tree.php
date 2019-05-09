@@ -1,6 +1,5 @@
 <?php
 /**
- 
 Plugin Name: There are monkeys on the tree
 Plugin URI: #
 Description: Un semplice plug-in che aggiunge del testo nel piè pagina del sito
